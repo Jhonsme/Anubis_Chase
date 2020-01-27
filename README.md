@@ -16,3 +16,4 @@ Jogo feito em C++ (BGI)
 
 # Instruções
 ## Inicie o Anubis Chase.exe
+### Use a seta para pular ou descer rapido
